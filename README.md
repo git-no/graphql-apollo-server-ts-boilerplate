@@ -6,7 +6,7 @@
 
 ```
 git clone https://github.com/git-no/graphql-apollo-server-ts-boilerplate.git
-cd graphql-ts-apollo-server-boilerplate
+cd graphql-apollo-server-ts-boilerplate
 ```
 
 2. Download dependencies
