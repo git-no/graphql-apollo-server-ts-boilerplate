@@ -1,4 +1,4 @@
-# GraphQL Apollo 2 Server with Typescript Boilerplate
+# GraphQL Apollo 2 Server Typescript Boilerplate
 
 ## Installation
 
