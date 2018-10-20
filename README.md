@@ -18,7 +18,7 @@ yarn
 ### Usage
 
 
-You can start the server with yarn start then navigate to `http://localhost:4000` to use GraphQL Playground.
+You can start the server with `yarn start` then navigate to `http://localhost:4000` to use GraphQL Playground.
 
 ## Development
 
