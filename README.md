@@ -5,7 +5,7 @@
 1. Clone repository
 
 ```
-git clone https://github.com/git-no/graphql-ts-apollo-server-boilerplate
+git clone https://github.com/git-no/graphql-apollo-server-ts-boilerplate.git
 cd graphql-ts-apollo-server-boilerplate
 ```
 
