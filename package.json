@@ -1,7 +1,7 @@
 {
   "name": "graphql-ts-apollo-server-boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Project developed with TypeORM",
   "main": "src/index.js",
   "scripts": {
     "lint": "tslint --project tsconfig.json",
@@ -14,14 +14,16 @@
   "author": "swissmation",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.1.0",
+    "apollo-server": "^2.2.0",
     "graphql": "^14.0.2",
     "graphql-import": "^0.7.1",
     "nodemon": "^1.18.4",
-    "ts-node": "^7.0.1"
+    "ts-node": "^7.0.1",
+    "typeorm": "^0.2.8"
   },
   "devDependencies": {
     "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.15.0",
     "typescript": "^3.1.3"
   }
 }
